@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Resources I recommend:
+https://tedunderwood.com/2025/07/02/a-more-interesting-upside-of-ai
+https://lklein.com
+https://www.aiai.network
+https://dhdebates.gc.cuny.edu
+https://nationalhumanitiescenter.org/education-programs/faculty-programs/responsible-artificial-intelligence-undergraduate-curriculum-design-project/2024-26-project/
+https://dh.ucla.edu
+https://kdl.kcl.ac.uk/blog
+https://humanities.uconn.edu/initiatives/ai-and-the-human
+https://programminghistorian.org/en/lessons/topic-modeling-and-mallet
