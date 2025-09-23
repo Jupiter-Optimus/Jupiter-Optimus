@@ -18,12 +18,13 @@
 
 ---
 
-## 📂 Featured Respositories 
+## 📂 Featured Repositories  
 
-🔹 [Hello_history] (https://github.com/Jupiter-Optimus/hello-story) - My first repo learning GitHub basics
--
-🔹 [frus-explorer] (https://github.com/Jupiter-Optimus/frus-explorer) *(coming soon)* - 
-     Ask natural language questions of the 
-     **Foreign Relations of the United States** corpus
-  -
- 🔹 [civic-ai-tools] (https://github.com/Jupiter-Optimus/civic-ai-tools)
+- **Hello_History**  
+  [GitHub link](https://github.com/Jupiter-Optimus/hello-story) – My first repo learning GitHub basics  
+
+- **Frus-Explorer** *(coming soon)*  
+  [GitHub link](https://github.com/Jupiter-Optimus/frus-explorer) – Ask natural language questions of the **Foreign Relations of the United States** corpus  
+
+- **Civic-AI-Tools**  
+  [GitHub link](https://github.com/Jupiter-Optimus/civic-ai-tools) – Tools for civic engagement and history + AI
