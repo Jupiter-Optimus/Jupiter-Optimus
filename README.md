@@ -49,7 +49,7 @@
 
 *We stand at a civilizational crossroad: we can continue producing graduates who mistake opinion for analysis and information for wisdom, or we can forge minds capable of synthetic thinking across the full spectrum of human knowledge. The choice will determine whether democracy evolves or dissolves, whether technology serves human flourishing or diminishes it, whether we face our planetary challenges with wisdom earned through millennia of human experience or stumble forward blind to the lessons of the past.*
 
-*The humanities, properly conceived and rigorously pursued, are not one option among many but the foundation upon which all other learning becomes meaningful—the disciplines that teach us not just how to think, but what thinking is for.*
+*The humanities, properly conceived and rigorously pursued, are not one option among many but the foundation upon which all other learning becomes meaningful, the disciplines that teach us not just how to think, but what thinking is for.*
 
 ---
 
