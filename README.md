@@ -35,8 +35,6 @@
 
 💼 **LinkedIn**: linkedin.com/in/johntwilder  
 
-🎧 **Discord**: @jupiter_optimus
-
 ---
 
 ## 🌟 Mission Statement
