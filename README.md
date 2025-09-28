@@ -1,6 +1,6 @@
 # Hi, I'm John T. Wilder 👋 
 
-📚 **Doctoral Student in American History | Instructor | Digital Humanist | AI Enthusiast**
+📚 **Doctoral Student in American History | College Instructor | Digital Humanist | AI Enthusiast**
 
 ⚖️ Exploring the intersection of **American history, civic life, and AI**
 
